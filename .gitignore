@@ -47,3 +47,4 @@ data/processed/*
 .vscode/
 .idea/
 *.swp
+get-pip.py
